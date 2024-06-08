@@ -1,18 +1,25 @@
-<!---
-HitkarMiglani/HitkarMiglani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-My name is Hitkar Miglani, and I hail from Yamunanagar, Haryana which is well known for its unique culture. 
-I am currently pursuing my bachelor's degreee i.e. B.E in CSE with specialization in AI from the renowned institute ,Chitkara University , Rajpura , Punjab . 
-I am a humble being with professional, ethical and technical skills all in one. 
-Maintaining a healthy lifestyle is what I admire, and so keeping a check on my outfit, physical appearance and health is of utmost priority to me. My interests include, researching, analysing and learning the unexplored aspect of topics. 
-I've successfully learnt various technical skills and designing techniques. 
-I also have a hobby of web surfing about a certain topic or field. 
-Mostly in free time I prefer to read a book or to solve a puzzle like Sudoku .
-Patience, curiosity and keen observation alongside dedication towards tasks are my key skills. 
-I am a kind hearted person who is always ready to help, optimistic , workaholic, good listener and obviously a music lover . 
-My recent participation in various workshops conducted and online certified courses have not only complimented my problem solving skills but have also boosted my confidence.
-My greatest asset is my mental capability & my will to not give up. I am always in search of something new to learn. As a life goal, I would love to see myself as a successful and distinguished executive.
+## About ME
 
-That's all about me.
+I am a tech lover and a future AI engineer at Chitkara University still. As of now, I am a student who has been eager to understand the concept known as Artificial Intelligence. Based on my knowledge in this area I feel that I can apply what I have learnt in areas such as; Machine learning, Deep learning, and Neural networks to come up with new solutions.
 
+Besides the school assignments, I enjoy developing solutions for open-source artificial intelligence projects on GitHub. Preferably, I am in search of individuals with whom I could collaborate to create new concepts that would integrate the application of artificial intelligence into new ideas and schemes. My intent when I think about artificial intelligence it is more along the lines of how do I make AI available to more people, how do I make sure people have more time because time is a separating factor today than money so that they can do more meaningful work, or how to take data and utilize it in a much more effective manner?
+
+For individual hiring on GitHub, you will find that worked on TensorFlow, PyTorch, Keras, and OpenCV among others to create a Face Emotion Recognion Model with almost 80% accuracy based on FER2013 training dataset. I also have a few small invests in the NLP and recommender system. I will also do other projects in the process of my learning therefore those projects might have more of what I have learned.
+
+If you have any other active AI projects that are open source or you are still seeking more enthusiasts to join, I will be happy to join! Especially, I am eager to enhance my professional knowledge more actively in such environment cooperating with peers, other developers and engineers. I am leaning new skills on Coursera.
+
+ThankYou
+
+## Tech Knowledge 
+
+| Rank | THING-TO-RANK  |
+|-----:|----------------|
+|     1|    Python      |
+|   1.1|    Django      |
+|   1.2|    Flask       | 
+|   1.3|    Tensorflow  |
+|   1.4|    Numpy       |
+|   1.5|    Pandas      |
+|     2|    C/C++       |
+|     3|    HTMl/CSS/JS |
+|     4|  | 
