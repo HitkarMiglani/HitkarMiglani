@@ -18,6 +18,8 @@ ThankYou
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="https://leetcode.com/u/hitkar_miglani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitkar_miglani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hitkar-miglani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitkar-miglani" height="30" width="40" /></a>
 <a href="https://kaggle.com/hitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hitkar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/hitkar_miglani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hitkar_miglani" height="30" width="40" /></a>
