@@ -23,7 +23,7 @@ ThankYou
 <a href="https://linkedin.com/in/hitkar-miglani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitkar-miglani" height="30" width="40" /></a>
 <a href="https://kaggle.com/hitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hitkar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hitkar_miglani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hitkar_miglani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hitkar383hoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hitkar383hoor" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hitkar383hoor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
