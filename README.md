@@ -33,4 +33,4 @@ ThankYou
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitkarmiglani&show_icons=true&locale=en" alt="hitkarmiglani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitkarmiglani&" alt="hitkarmiglani" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hitkarmiglani&theme=aura&hide_border=true&border_radius=4.7&short_numbers=true" alt="GitHub Streak" /></a>
